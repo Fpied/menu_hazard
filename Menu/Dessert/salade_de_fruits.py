@@ -1,0 +1,2 @@
+ingredient = ["Pommes", "Poires", "noix", "raisins secs", "citron", "autres fruits"]
+recette = "Lavez vos fruits\n Découpez-les \n Détailles-les \n Mélangez tout ça dans un saladier \n Rajoutez éventuellement le filet de jus de citron , et c’est bon !"

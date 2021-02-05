@@ -1,0 +1,2 @@
+ingredient = ["1 Pot de yaourt nature", "sucre", "farine", "Huile de tournesol", "3 oeufs", "1 sachet de sucre vanillé", "1 sachet de levure chimique"]
+recette = "Prenez un moule à gâteaux et beurrez-le bien, nom d’une pipe ! Mieux encore : je vous conseille les moules en silicone, c’est top.\n Versez les ingrédients dans le saladier : d’abord le yaourt, puis le sucre et les œufs, puis la farine, l’huile et la levure. Remuez bien tout ça ! \n Versez la pâte dans votre moule à gâteaux et enfournez-moi ça. \n 35 minutes plus tard, c’est prêt !"

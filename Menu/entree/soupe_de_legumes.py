@@ -1,0 +1,3 @@
+ingredient = ["Pommes de terre", "carottes", "oignon", "ail", "tomates", "potiron", "poireau", "courgettes", "cube de bouillon boeuf ou poulet"]
+recette = "Epluchez, nettoyez et découpez vos légumes en petits morceaux\n Mettez tout ça dans une casserole avec de l’eau (elle doit recouvrir les légumes assez largement)\n Ajoutez le cube et la viande si vous en mettez\n Faites-les cuire à l’eau bouillante jusqu’à ce qu’ils soient bien mous (environ une demi-heure)\n Ne jetez pas l’eau : mixez tout ensemble\n Rajoutez de l’eau si vous voulez une soupe plus épaisse"
+print(recette)
