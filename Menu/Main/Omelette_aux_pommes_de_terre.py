@@ -1,2 +1,0 @@
-ingrédient = ["500g de pommes de terre", "5 Oeufs", "Persil", "Ail"]
-recette = "Découpez les pommes de terre en dés puis faites-les cuire dans une poêle avec de l’huile d’olive \n Pendant que ça cuit, battez les œufs dans un bol avec l’assaisonnement \n Une fois les pommes de terre cuites (pas les pommes de terre cuite attention, ça fait mal aux dents), égouttez l’huile, versez les œufs dessus et laissez cuire à feux doux (très doux, sinon ça va cramer !)"
